@@ -48,16 +48,17 @@ genepy-solutions/
 
 Résolution des Exercices classés par difficulté
 
-| Difficulté | Exercice | Langage | Statut |
-| ---------- | -------- | ------- | ------ |
-
-<!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) -->
+| Difficulté | Exercice                                                           | Langage                                                                                                | Statut |
+| ---------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ | ------ |
+| Easy       | [Bonjour,monde](./Exercices/Easy/Bonjour,monde.py)                 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✅     |
+| Easy       | [Afficher 42](./Exercices/Easy/Afficher42.py)                      | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✅     |
+| Easy       | [Seconde dans une année](./Exercices/Easy/SecondesDansUneAnnee.py) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✅     |
 
 ---
 
 ## 📈 Mise à jour
 
-Dernière mise à jour : **Janvier 2026**
+Dernière mise à jour : **Février 2026**
 
 ---
 
