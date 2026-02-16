@@ -29,7 +29,7 @@ Il s’inscrit dans une démarche d’**apprentissage continu**.
 ## 📁 Organisation du dépôt
 
 ```
-codingame-solutions/
+genepy-solutions/
   ├── exercices/
   │ ├── easy/
   │ ├── medium/
