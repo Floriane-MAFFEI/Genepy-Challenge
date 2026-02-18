@@ -54,6 +54,12 @@ Résolution des Exercices classés par difficulté
 | Easy       | [Afficher 42](./Exercices/Easy/Afficher42.py)                      | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✅     |
 | Easy       | [Seconde dans une année](./Exercices/Easy/SecondesDansUneAnnee.py) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✅     |
 | Easy       | [Opérateurs](./Exercices/Easy/Operateurs.py)                       | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✅     |
+| Easy       | [CompterLesCaractères](./Exercices/Easy/CompterLesCaracteres.py)   | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✅     |
+| Easy       | [Réparer l'indentation](./Exercices/Easy/ReparerLIdentation.py)    | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✅     |
+| Easy       | [Nombres Carrées](./Exercices/Easy/NombresCarrees.py)              | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✅     |
+| Easy       | [Puissance de deux](./Exercices/Easy/PuissancesDeDeux.py)          | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✅     |
+| Easy       | [Import](./Exercices/Easy/Import.py)                               | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✅     |
+| Easy       | [Comparer](./Exercices/Easy/Comparer.py)                           | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✅     |
 
 ---
 
