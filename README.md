@@ -53,6 +53,7 @@ Résolution des Exercices classés par difficulté
 | Easy       | [Bonjour,monde](./Exercices/Easy/Bonjour,monde.py)                 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✅     |
 | Easy       | [Afficher 42](./Exercices/Easy/Afficher42.py)                      | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✅     |
 | Easy       | [Seconde dans une année](./Exercices/Easy/SecondesDansUneAnnee.py) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✅     |
+| Easy       | [Opérateurs](./Exercices/Easy/Operateurs.py)                       | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✅     |
 
 ---
 
