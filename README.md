@@ -62,6 +62,7 @@ Résolution des Exercices classés par difficulté
 | Easy       | [Comparer](./Exercices/Easy/Comparer.py)                           | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✅     |
 | Easy       | [Compter Les Mots](./Exercices/Easy/CompterLesMots.py)             | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✅     |
 | Easy       | [Réparer is_anagram](./Exercices/Easy/Reparer-is_anagram.py)       | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✅     |
+| Easy       | [Première fonction](./Exercices/Easy/PremiereFonction.py)          | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✅     |
 
 ---
 
