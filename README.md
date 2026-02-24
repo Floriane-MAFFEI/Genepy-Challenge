@@ -48,21 +48,22 @@ genepy-solutions/
 
 Résolution des Exercices classés par difficulté
 
-| Difficulté | Exercice                                                           | Langage                                                                                                | Statut |
-| ---------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ | ------ |
-| Easy       | [Bonjour,monde](./Exercices/Easy/Bonjour,monde.py)                 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✅     |
-| Easy       | [Afficher 42](./Exercices/Easy/Afficher42.py)                      | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✅     |
-| Easy       | [Seconde dans une année](./Exercices/Easy/SecondesDansUneAnnee.py) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✅     |
-| Easy       | [Opérateurs](./Exercices/Easy/Operateurs.py)                       | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✅     |
-| Easy       | [CompterLesCaractères](./Exercices/Easy/CompterLesCaracteres.py)   | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✅     |
-| Easy       | [Réparer l'indentation](./Exercices/Easy/ReparerLIdentation.py)    | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✅     |
-| Easy       | [Nombres Carrées](./Exercices/Easy/NombresCarrees.py)              | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✅     |
-| Easy       | [Puissance de deux](./Exercices/Easy/PuissancesDeDeux.py)          | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✅     |
-| Easy       | [Import](./Exercices/Easy/Import.py)                               | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✅     |
-| Easy       | [Comparer](./Exercices/Easy/Comparer.py)                           | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✅     |
-| Easy       | [Compter Les Mots](./Exercices/Easy/CompterLesMots.py)             | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✅     |
-| Easy       | [Réparer is_anagram](./Exercices/Easy/Reparer-is_anagram.py)       | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✅     |
-| Easy       | [Première fonction](./Exercices/Easy/PremiereFonction.py)          | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✅     |
+| Difficulté | Exercice                                                             | Langage                                                                                                | Statut |
+| ---------- | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ------ |
+| Easy       | [Bonjour,monde](./Exercices/Easy/Bonjour,monde.py)                   | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✅     |
+| Easy       | [Afficher 42](./Exercices/Easy/Afficher42.py)                        | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✅     |
+| Easy       | [Seconde dans une année](./Exercices/Easy/SecondesDansUneAnnee.py)   | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✅     |
+| Easy       | [Opérateurs](./Exercices/Easy/Operateurs.py)                         | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✅     |
+| Easy       | [CompterLesCaractères](./Exercices/Easy/CompterLesCaracteres.py)     | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✅     |
+| Easy       | [Réparer l'indentation](./Exercices/Easy/ReparerLIdentation.py)      | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✅     |
+| Easy       | [Nombres Carrées](./Exercices/Easy/NombresCarrees.py)                | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✅     |
+| Easy       | [Puissance de deux](./Exercices/Easy/PuissancesDeDeux.py)            | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✅     |
+| Easy       | [Import](./Exercices/Easy/Import.py)                                 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✅     |
+| Easy       | [Comparer](./Exercices/Easy/Comparer.py)                             | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✅     |
+| Easy       | [Compter Les Mots](./Exercices/Easy/CompterLesMots.py)               | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✅     |
+| Easy       | [Réparer is_anagram](./Exercices/Easy/Reparer-is_anagram.py)         | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✅     |
+| Easy       | [Première fonction](./Exercices/Easy/PremiereFonction.py)            | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✅     |
+| Easy       | [Afficher Les Nombres Pairs](./Exercices/Easy/AfficherNombrePair.py) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✅     |
 
 ---
 
