@@ -66,6 +66,7 @@ Résolution des Exercices classés par difficulté
 | Easy       | [Afficher Les Nombres Pairs](./Exercices/Easy/AfficherNombrePair.py)    | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✅     |
 | Easy       | [Sommes des Nombres Pairs <= 100](./Exercices/Easy/SommeNombrePairs.py) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✅     |
 | Easy       | [Multiple de 3 et 5](./Exercices/Easy/Multiples3et5.py)                 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✅     |
+| Easy       | [Temperatures](./Exercices/Easy/Temperatures.py)                        | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✅     |
 
 ---
 
